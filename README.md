@@ -31,5 +31,5 @@ changeSearchToOffline()
 In the next post I will write about adding mobile app/browser separation to the picture. Due to the MVC implementation we will only need to duplicate view/.. part.
 See this post for details: 
 http://buzzar-app.blogspot.com/2015/09/simple-mvc-in-meteorjs.html
-
+![Just to make the post brighter!](http://3.bp.blogspot.com/-hYnufQ8rTwA/VgEDzke3Z7I/AAAAAAAABpk/D13FfBO-qys/s1600/imageedit_3_2818406403.png)
 Please, enjoy and let me know your thoughts :)
