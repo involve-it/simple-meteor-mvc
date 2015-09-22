@@ -5,8 +5,7 @@ Very Simple-Meteor-Mvc sample.
 For me it's been hard to carve anything MVC-ish in a pretty solid meteoric matter. But damn! we got to make it MVC.. right?
 
 Through trials and errors I ended up with one pretty simple approach to implement MVC structure with Meteor.
-
-Wiki's MVC. Let's say this is the standard.
+![Wiki's MVC. Let's say this is the standard.](https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg)
 
 view/
         .html
