@@ -11,11 +11,23 @@ view/
         .html
         .js
         .less
+        
+        
         -anything related to the view. Has references to collections and session objects in html/helpers/events, so Model UPDATES the View (see picture).
+        
+        
 controller.js 
+        
+        
         -any functions responding to user actions, called from the view (User USES the Controller), any         tracker.autoruns, etc. - controller MANIPULATES the Model.
+        
+        
 model.js 
+        
+        
         -definitions of sessions, definitions of cols; server-binding (e.g. subscribes).
+
+
 
 What I like about it - it's pretty natural way to fit Meteor in MVC concepts, so that your mind doesn't need to use brain every time you find/put code in. You may apply this logic on the level of single template, single page/control, package or whole app - any restriction here feels quite unnatural. I personally prefer to create either package- or control-level MVC - whatever single logical unit I have to show to users.
 
