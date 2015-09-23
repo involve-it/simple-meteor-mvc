@@ -19,13 +19,14 @@ view/
 controller.js 
         
         
-        -any functions responding to user actions, called from the view (User USES the Controller), any         tracker.autoruns, etc. - controller MANIPULATES the Model.
+        -any functions responding to user actions, called from the view (User USES the Controller), 
+        any tracker.autoruns, Session and Collection updates etc. - controller MANIPULATES the Model.
         
         
 model.js 
         
         
-        -definitions of sessions, definitions of cols; server-binding (e.g. subscribes).
+        -definitions of sessions, definitions of Collections, server-binding (e.g. subscribes).
 
 
 
