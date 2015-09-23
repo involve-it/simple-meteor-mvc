@@ -13,7 +13,8 @@ view/
         .less
         
         
-        -anything related to the view. Has references to collections and session objects in html/helpers/events, so Model UPDATES the View (see picture).
+        -anything related to the view. Has references to collections and session objects in 
+        html/helpers/events, so Model UPDATES the View (see picture).
         
         
 controller.js 
